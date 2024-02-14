@@ -19,10 +19,10 @@ The cTrip Crypto Payment Gateway is a Flask-based solution for integrating crypt
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/yourusername/ctrip-crypto-payment-gateway.git`
+1. Clone the repository: `git clone https://github.com/rakibmia7254/ctrip.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Configure Ethereum settings, Infura API, and admin addresses in the code.
-4. Run the Flask application: `python app.py`
+4. Run the Flask application: `python main.py`
 
 ## Usage
 
